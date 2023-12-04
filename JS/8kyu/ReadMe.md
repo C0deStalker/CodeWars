@@ -1,0 +1,1 @@
+CodeWars JavaScript 8kyu Soluitions
